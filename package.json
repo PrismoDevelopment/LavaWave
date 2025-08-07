@@ -24,8 +24,10 @@
         "url": "https://github.com/gaanabot/LavaWave/issues"
     },
     "dependencies": {
-        "undici": "^6.21.0",
-        "ws": "^8.18.0"
+       "node-html-parser": "^7.0.1",
+        "otpauth": "^9.4.0",
+        "undici": "^7.10.0",
+        "ws": "^8.18.2"
     },
     "devDependencies": {
         "@types/ws": "^8.5.13",
