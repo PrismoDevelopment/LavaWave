@@ -1,6 +1,6 @@
 {
     "name": "lavawave",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Lightweight lavalink client built with Node.js",
     "main": "dist/src/index.js",
     "types": "typings/src/index.d.ts",
